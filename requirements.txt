@@ -1,0 +1,11 @@
+geomdl
+matplotlib
+numba
+numpy
+plotly
+#pyade
+#pyade_python
+setuptools
+pandas
+scipy
+mealpy
