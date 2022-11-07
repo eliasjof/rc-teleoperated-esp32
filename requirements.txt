@@ -9,3 +9,6 @@ setuptools
 pandas
 scipy
 mealpy
+ipympl
+imageio
+imageio-ffmpeg
